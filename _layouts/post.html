@@ -11,7 +11,7 @@ published: true
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%Y"년 "%-m"월 "%-d"일 }}
+    {{ page.date | date: "%Y년%-m월%-d일" }}
   </div>
 
   {% include disqus.html %}
