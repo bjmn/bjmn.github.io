@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+category: blog
 ---
 It's really hot. 더워서 입맛이 없나? 입맛이 없다. 너무 없다. 치킨이 먹고 싶다가 이제 먹기 싫어졌다. 삼계탕이 먹고 싶다가 요즘 뭘 자꾸 질러서 아껴야 한다는 생각에 먹기 싫어졌다. 입맛이 없다. 입맛이 없다.
 
