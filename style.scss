@@ -241,13 +241,13 @@ nav {
 //
 
 .entry {
-line-height: 1.2em;
+line-height: 1.2;
 }
 
 .posts > .post {
   padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
-line-height: 1.2em;
+  line-height: 1.2;
 }
 
 .posts > .post:last-child {
