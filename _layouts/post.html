@@ -12,11 +12,12 @@ published: true
 
   <div class="date">
     {{ page.date | date: "%Y년 %-m월 %-d일" }} 
-    in {% for category in page.categories %}
+    <!-- show category
+  {% for category in page.categories %}
   <a href="/category/{{ category | slugize }}/">
     {{ category }}
   </a>
-{% endfor %}
+ {% endfor %}-->
   </div>
 
   {% include disqus.html %}
