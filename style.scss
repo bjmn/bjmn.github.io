@@ -287,10 +287,12 @@ footer {
 .category {
   margin: 0;
   padding: 0;
+  list-style-position: outside;
+  list-style-type: none;
 }
 
 .category .date {
-font-size: 0.85em;
+font-size: 90%;
 }
 
 
