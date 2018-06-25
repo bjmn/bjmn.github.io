@@ -1,8 +1,8 @@
 ---
 layout: page
 ---
-<ul>
+<ul class="category">
 {% for post in site.categories[page.category] %}
-    {{ post.date }} <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+    <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a> <span class="date">{{ page.date | date: "%Y년 %-m월 %-d일" }}</span></li>
 {% endfor %}
 </ul>
