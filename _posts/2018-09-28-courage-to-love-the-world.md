@@ -3,6 +3,7 @@ published: true
 category: writing
 date: 2018-09-28T12:06:00.000Z
 layout: post
+title: 다시 세상을 사랑할 용기
 ---
 
 <blockquote>
